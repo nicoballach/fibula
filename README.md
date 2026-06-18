@@ -11,11 +11,9 @@ Current tools like Jira often reduce complex product development to flat lists. 
 - Understand the impact of changes instantly.
 - Self-hosted for data sovereignty.
 
-## 🚀 Roadmap
-- [ ] Phase 1: Core Data Model & TypeScript Setup
-- [ ] Phase 2: Dependency Visualization (React Flow)
-- [ ] Phase 3: Self-Hosting (Docker)
-- [ ] [ ] Future: Go Migration for Performance
+## 💡 Vision & Roadmap
+
+The long-term vision, core values, and development roadmap are detailed in **[VISION.md](./VISION.md)**.
 
 ## 🛠 Tech Stack
 - Frontend: Next.js 15 + TypeScript
@@ -26,3 +24,10 @@ Current tools like Jira often reduce complex product development to flat lists. 
 
 ## 📝 Getting Started
 *(Coming soon...)*
+
+## 📜 Licensing
+
+Fibula core is licensed under the **GNU Affero General Public License v3.0 (AGPLv3)**.
+This ensures that anyone running Fibula as a service must also share their modifications, protecting the open-source nature of the project.
+
+See **[LICENSE](./LICENSE)** for details.
