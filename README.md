@@ -31,3 +31,7 @@ Fibula core is licensed under the **GNU Affero General Public License v3.0 (AGPL
 This ensures that anyone running Fibula as a service must also share their modifications, protecting the open-source nature of the project.
 
 See **[LICENSE](./LICENSE)** for details.
+
+## ⚠️ **Alpha Status**
+
+This project is under active development. APIs may change without notice. Expect bugs and rough edges. Use at your own risk.
