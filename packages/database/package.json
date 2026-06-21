@@ -1,0 +1,16 @@
+{
+  "name": "@fibula/database",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo 'No build step configured'",
+    "lint": "echo 'No lint step configured'"
+  },
+  "author": "Nico Ballach",
+  "license": "AGPL-3.0-only",
+  "dependencies": {
+    "@fibula/shared-types": "workspace:*"
+  }
+}
